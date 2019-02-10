@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://heedeiva.elifoner.com/sitemap.xml
